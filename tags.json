@@ -2547,6 +2547,9 @@
 		]
 	},
 	"Life": {
+		"box": [
+			"box"
+		],
 		"umbrella": [
 			"protect",
 			"雨伞",

@@ -1231,6 +1231,10 @@
 			"代码",
 			"编程"
 		],
+		"experimental": [
+			"experimental",
+			"science"
+		],
 		"terminal-box": [
 			"code",
 			"command line",
